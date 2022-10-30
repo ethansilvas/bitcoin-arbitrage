@@ -8,6 +8,8 @@ datasets.
 [Bitstamp](/Resources/bitstamp.csv) <br>
 [Coinbase](/Resources/coinbase.csv)
 
+![Screenshot of Matplotlib line plot comparing closing prices between bitstamp and coinbase](/Resources/images/data_viz.png)
+
 ---
 
 ## Technologies
