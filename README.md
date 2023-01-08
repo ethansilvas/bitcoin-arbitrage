@@ -1,4 +1,4 @@
-# Module 3 Challenge - Bitcoin Arbitrage
+# Bitcoin Arbitrage - UW Fintech Bootcamp Module 3 Challenge
 
 This is a time series analysis of potentially profitable arbitrage opportunities between Bitstamp and Coinbase 
 closing price data from 1/1/2018 to 3/31/2018. The analysis looks at the full length data to see if there are any possible trends in the amount
